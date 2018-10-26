@@ -1,0 +1,36 @@
+body {
+    background-color: beige
+}
+#first {
+    color: red;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h2 {
+    font-style: italic;
+    color: darkorange;
+    font-family: sans-serif
+}
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+#image {
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+p {
+    size: 50px;
+}
+li {
+    color: blueviolet;
+    font-size: 20px;
+    
+}
+#second {
+    background-color: black
+}
+#last {
+    font-size: 45px;
+}
