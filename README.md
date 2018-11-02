@@ -1,3 +1,5 @@
 <html>
-  <h1 style=color:"red">MERHABA AYHAN HOCAM</h1>
+  <body>
+    <h1 style="color: red;">MERHABA AYHAN HOCAM</h1>
+  </body>  
 </html>
