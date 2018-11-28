@@ -1,0 +1,42 @@
+.card-deck {
+    text-align: left
+}
+.card-body {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem
+}
+
+.cardSet1 {
+    background-color: #6b67a5;
+    
+
+}
+
+.cardSet2 {
+    background-color: #e99d47;
+
+}
+
+
+.cardSet3 {
+    background-color: #b6412c;
+
+}
+
+
+.cardSet4 {
+    background-color: #8b4f44;
+}
+
+.cardSet5 {
+    background-color: #58b13d;
+}
+
+.cardSet6 {
+    background-color: #3559a5;
+}
+
+.card-title {
+    margin-top: 1.5rem;
+
+}
